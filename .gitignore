@@ -1,0 +1,9 @@
+# Compiled config
+config.h
+
+# Compiled util
+dwm
+
+# Out files
+*.o
+
